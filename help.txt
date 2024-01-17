@@ -1,0 +1,9 @@
+inicializar o postgres
+sudo systemctl start postgresql.service
+
+reiniciar o postgres
+sudo systemctl restart postgresql.service
+
+
+
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-check-constraint/
